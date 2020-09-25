@@ -1,2 +1,1 @@
-# Language-Learning-Quiz-Game
-Nov 2016 – Jan 2017  Project descriptionIn our software Engineering sessional, I made a question-answer platform named language learning system. This work was done during my 3rd year undergraduate studies. I used CodeIgniter as framework and Javascript, HTML, CSS for making this quiz game. One could play Quiz on a preferred language to answer those in another language to check the selected language proficiency.
+# ISDProject
